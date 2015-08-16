@@ -1,0 +1,6 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\9. Events\bin\Debug\_9.Events.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\9. Events\bin\Debug\_9.Events.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\9. Events\bin\Debug\_9.Events.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\9. Events\obj\Debug\9. Events.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\9. Events\obj\Debug\_9.Events.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\9. Events\obj\Debug\_9.Events.pdb

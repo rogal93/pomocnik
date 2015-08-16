@@ -1,0 +1,6 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\10. LINQ\bin\Debug\_10.LINQ.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\10. LINQ\bin\Debug\_10.LINQ.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\10. LINQ\bin\Debug\_10.LINQ.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\10. LINQ\obj\Debug\10. LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\10. LINQ\obj\Debug\_10.LINQ.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\10. LINQ\obj\Debug\_10.LINQ.pdb

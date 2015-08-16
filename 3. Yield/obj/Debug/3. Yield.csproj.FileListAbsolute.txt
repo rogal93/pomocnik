@@ -1,0 +1,5 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\3. Yield\bin\Debug\_3.Yield.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\3. Yield\bin\Debug\_3.Yield.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\3. Yield\bin\Debug\_3.Yield.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\3. Yield\obj\Debug\_3.Yield.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\3. Yield\obj\Debug\_3.Yield.pdb

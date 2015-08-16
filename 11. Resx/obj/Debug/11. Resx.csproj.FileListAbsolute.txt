@@ -1,0 +1,10 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\11. Resx\bin\Debug\_11.Resx.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\11. Resx\bin\Debug\_11.Resx.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\11. Resx\bin\Debug\_11.Resx.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\11. Resx\obj\Debug\_11.Resx.MyResources.resources
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\11. Resx\obj\Debug\11. Resx.csproj.GenerateResource.Cache
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\11. Resx\obj\Debug\_11.Resx.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\11. Resx\obj\Debug\_11.Resx.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\11. Resx\bin\Debug\en-GB\_11.Resx.resources.dll
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\11. Resx\obj\Debug\_11.Resx.MyResources.en-GB.resources
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\11. Resx\obj\Debug\en-GB\_11.Resx.resources.dll

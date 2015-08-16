@@ -1,0 +1,6 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\5. VirtualAndAbstractMethods\bin\Debug\_5.VirtualAndAbstractMethods.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\5. VirtualAndAbstractMethods\obj\Debug\5. VirtualAndAbstractMethods.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\5. VirtualAndAbstractMethods\bin\Debug\_5.VirtualAndAbstractMethods.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\5. VirtualAndAbstractMethods\bin\Debug\_5.VirtualAndAbstractMethods.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\5. VirtualAndAbstractMethods\obj\Debug\_5.VirtualAndAbstractMethods.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\5. VirtualAndAbstractMethods\obj\Debug\_5.VirtualAndAbstractMethods.pdb

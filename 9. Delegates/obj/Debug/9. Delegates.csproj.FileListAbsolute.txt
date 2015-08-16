@@ -1,0 +1,6 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\9. Delegates\bin\Debug\_9.Delegates.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\9. Delegates\bin\Debug\_9.Delegates.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\9. Delegates\bin\Debug\_9.Delegates.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\9. Delegates\obj\Debug\_9.Delegates.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\9. Delegates\obj\Debug\_9.Delegates.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\9. Delegates\obj\Debug\9. Delegates.csprojResolveAssemblyReference.cache

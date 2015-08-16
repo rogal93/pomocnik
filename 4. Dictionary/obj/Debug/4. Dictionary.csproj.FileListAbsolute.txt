@@ -1,0 +1,5 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\4. Dictionary\bin\Debug\_4.Dictionary.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\4. Dictionary\bin\Debug\_4.Dictionary.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\4. Dictionary\bin\Debug\_4.Dictionary.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\4. Dictionary\obj\Debug\_4.Dictionary.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\4. Dictionary\obj\Debug\_4.Dictionary.pdb

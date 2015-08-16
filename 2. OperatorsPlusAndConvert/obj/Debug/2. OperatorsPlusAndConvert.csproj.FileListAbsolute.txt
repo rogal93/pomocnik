@@ -1,0 +1,6 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. OperatorsPlusAndConvert\bin\Debug\_2.OperatorsPlusAndConvert.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. OperatorsPlusAndConvert\bin\Debug\_2.OperatorsPlusAndConvert.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. OperatorsPlusAndConvert\bin\Debug\_2.OperatorsPlusAndConvert.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. OperatorsPlusAndConvert\obj\Debug\2. OperatorsPlusAndConvert.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. OperatorsPlusAndConvert\obj\Debug\_2.OperatorsPlusAndConvert.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. OperatorsPlusAndConvert\obj\Debug\_2.OperatorsPlusAndConvert.pdb

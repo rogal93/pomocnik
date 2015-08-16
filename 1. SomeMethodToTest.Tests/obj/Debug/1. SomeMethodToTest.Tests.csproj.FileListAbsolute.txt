@@ -1,0 +1,7 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\1. SomeMethodToTest.Tests\bin\Debug\_1.SomeMethodToTest.Tests.dll
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\1. SomeMethodToTest.Tests\bin\Debug\_1.SomeMethodToTest.Tests.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\1. SomeMethodToTest.Tests\bin\Debug\_1.SomeMethodToTest.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\1. SomeMethodToTest.Tests\bin\Debug\_1.SomeMethodToTest.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\1. SomeMethodToTest.Tests\obj\Debug\1. SomeMethodToTest.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\1. SomeMethodToTest.Tests\obj\Debug\_1.SomeMethodToTest.Tests.dll
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\1. SomeMethodToTest.Tests\obj\Debug\_1.SomeMethodToTest.Tests.pdb

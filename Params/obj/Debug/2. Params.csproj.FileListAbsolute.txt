@@ -1,0 +1,6 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\Params\bin\Debug\Params.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\Params\bin\Debug\Params.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\Params\bin\Debug\Params.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\Params\obj\Debug\2. Params.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\Params\obj\Debug\Params.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\Params\obj\Debug\Params.pdb

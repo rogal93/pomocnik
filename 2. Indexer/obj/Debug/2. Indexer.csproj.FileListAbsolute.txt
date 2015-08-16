@@ -1,0 +1,5 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. Indexer\bin\Debug\_2.Indexer.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. Indexer\bin\Debug\_2.Indexer.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. Indexer\bin\Debug\_2.Indexer.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. Indexer\obj\Debug\_2.Indexer.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. Indexer\obj\Debug\_2.Indexer.pdb

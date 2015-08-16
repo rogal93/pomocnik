@@ -1,0 +1,5 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. CopyArray\bin\Debug\_2.CopyArray.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. CopyArray\bin\Debug\_2.CopyArray.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. CopyArray\bin\Debug\_2.CopyArray.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. CopyArray\obj\Debug\_2.CopyArray.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. CopyArray\obj\Debug\_2.CopyArray.pdb

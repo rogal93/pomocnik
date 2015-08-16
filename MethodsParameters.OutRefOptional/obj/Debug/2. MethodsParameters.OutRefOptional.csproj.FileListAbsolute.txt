@@ -1,0 +1,6 @@
+C:\Users\Damian\documents\visual studio 2013\Projects\Pomocnik\MethodsParameters.OutRefOptional\bin\Debug\MethodsParameters.OutRefOptional.exe.config
+C:\Users\Damian\documents\visual studio 2013\Projects\Pomocnik\MethodsParameters.OutRefOptional\bin\Debug\MethodsParameters.OutRefOptional.exe
+C:\Users\Damian\documents\visual studio 2013\Projects\Pomocnik\MethodsParameters.OutRefOptional\bin\Debug\MethodsParameters.OutRefOptional.pdb
+C:\Users\Damian\documents\visual studio 2013\Projects\Pomocnik\MethodsParameters.OutRefOptional\obj\Debug\2. MethodsParameters.OutRefOptional.csprojResolveAssemblyReference.cache
+C:\Users\Damian\documents\visual studio 2013\Projects\Pomocnik\MethodsParameters.OutRefOptional\obj\Debug\MethodsParameters.OutRefOptional.exe
+C:\Users\Damian\documents\visual studio 2013\Projects\Pomocnik\MethodsParameters.OutRefOptional\obj\Debug\MethodsParameters.OutRefOptional.pdb

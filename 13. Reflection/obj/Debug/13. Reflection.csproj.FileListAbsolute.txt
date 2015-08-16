@@ -1,0 +1,5 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\13. Reflection\bin\Debug\_13.Reflection.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\13. Reflection\bin\Debug\_13.Reflection.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\13. Reflection\bin\Debug\_13.Reflection.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\13. Reflection\obj\Debug\_13.Reflection.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\13. Reflection\obj\Debug\_13.Reflection.pdb

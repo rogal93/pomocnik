@@ -1,0 +1,6 @@
+C:\Users\Damian\documents\visual studio 2013\Projects\Pomocnik\2. ClassAndStruct\bin\Debug\_2.ClassAndStruct.exe.config
+C:\Users\Damian\documents\visual studio 2013\Projects\Pomocnik\2. ClassAndStruct\obj\Debug\2. ClassAndStruct.csprojResolveAssemblyReference.cache
+C:\Users\Damian\documents\visual studio 2013\Projects\Pomocnik\2. ClassAndStruct\bin\Debug\_2.ClassAndStruct.exe
+C:\Users\Damian\documents\visual studio 2013\Projects\Pomocnik\2. ClassAndStruct\bin\Debug\_2.ClassAndStruct.pdb
+C:\Users\Damian\documents\visual studio 2013\Projects\Pomocnik\2. ClassAndStruct\obj\Debug\_2.ClassAndStruct.exe
+C:\Users\Damian\documents\visual studio 2013\Projects\Pomocnik\2. ClassAndStruct\obj\Debug\_2.ClassAndStruct.pdb

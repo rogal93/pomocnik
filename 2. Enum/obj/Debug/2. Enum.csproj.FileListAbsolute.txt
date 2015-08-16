@@ -1,0 +1,6 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. Enum\bin\Debug\_2.Enum.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. Enum\bin\Debug\_2.Enum.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. Enum\bin\Debug\_2.Enum.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. Enum\obj\Debug\2. Enum.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. Enum\obj\Debug\_2.Enum.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. Enum\obj\Debug\_2.Enum.pdb

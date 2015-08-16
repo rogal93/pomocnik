@@ -1,0 +1,5 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\5. Exceptions\bin\Debug\_5.Exceptions.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\5. Exceptions\bin\Debug\_5.Exceptions.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\5. Exceptions\bin\Debug\_5.Exceptions.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\5. Exceptions\obj\Debug\_5.Exceptions.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\5. Exceptions\obj\Debug\_5.Exceptions.pdb

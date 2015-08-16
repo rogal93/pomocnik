@@ -1,0 +1,6 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. PartialClass\bin\Debug\_2.PartialClass.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. PartialClass\bin\Debug\_2.PartialClass.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. PartialClass\bin\Debug\_2.PartialClass.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. PartialClass\obj\Debug\_2.PartialClass.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. PartialClass\obj\Debug\_2.PartialClass.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\2. PartialClass\obj\Debug\2. PartialClass.csprojResolveAssemblyReference.cache

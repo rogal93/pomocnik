@@ -1,0 +1,6 @@
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\WhereRestriction\bin\Debug\WhereRestriction.exe.config
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\WhereRestriction\bin\Debug\WhereRestriction.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\WhereRestriction\bin\Debug\WhereRestriction.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\WhereRestriction\obj\Debug\WhereRestriction.exe
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\WhereRestriction\obj\Debug\WhereRestriction.pdb
+C:\Users\Damian\Documents\Visual Studio 2013\Projects\Pomocnik\WhereRestriction\obj\Debug\2. WhereRestriction.csprojResolveAssemblyReference.cache
